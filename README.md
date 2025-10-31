@@ -150,5 +150,9 @@ Crear un dashboard interactivo en Power BI o Streamlit.
 Bruno Roberto Argañaraz
 Analista de Datos
 📍 Argentina
+
+:email: Email   bruno.r.arganaraz@gmail.com
+
 💼 LinkedIn  https://www.linkedin.com/in/bruno-argañaraz-726a4a199/
+
  | 🌐 GitHub
