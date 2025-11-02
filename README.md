@@ -1,14 +1,16 @@
 # Transporte-2025
 Cantidad de transacciones SUBE (usos) por día en 2025 datos reales de la secretaria de transporte actualizada hasta el 30/10/2025
-📊 Análisis de Datos de Uso del Transporte Público en Argentina (2025) @ArgTransporte
-🧩 Descripción del Proyecto
 
+📊 Análisis de Datos de Uso del Transporte Público en Argentina (2025) @ArgTransporte
+
+🧩 Descripción del Proyecto
+---------------------------------------
 Este proyecto tiene como objetivo realizar un proceso completo de análisis de datos (ETL + EDA) utilizando información pública del Ministerio de Transporte de la Nación Argentina, específicamente sobre los usos de la tarjeta SUBE a nivel nacional.
 
 El análisis busca identificar patrones de movilidad, tendencias de uso y distribución del transporte entre jurisdicciones, tipos de transporte, provincias y empresas prestatarias.
 
 🧠 Objetivos
-
+--------------------------------------
 Aplicar un proceso ETL (Extract, Transform, Load) con datos reales.
 
 Desarrollar un análisis exploratorio de datos (EDA) para comprender el comportamiento del transporte público.
@@ -20,7 +22,7 @@ Presentar visualizaciones claras que aporten valor al análisis.
 Elaborar un dataset limpio y reutilizable para futuros proyectos de analítica o machine learning.
 
 🧰 Tecnologías Utilizadas
-
+------------------------------------
 Lenguaje: Python 🐍
 
 Librerías:
@@ -38,6 +40,7 @@ Archivo Original: usos_transporte.csv
 Archivo Resultante: datos_usos_2025_ETL.csv
 
 ⚙️ Proceso ETL
+-----------------------------------------------
 🔹 Extract
 
 Se obtuvo el dataset original en formato .csv desde el portal de Datos Abiertos del Gobierno Argentino, con información de transacciones del sistema SUBE.
@@ -71,7 +74,7 @@ Se generó un nuevo archivo limpio:
 datos_usos_2025_ETL.csv
 
 🔍 Análisis Exploratorio de Datos (EDA)
-
+----------------------------------------------------
 Se realizaron diversos análisis y visualizaciones para obtener información relevante:
 
 📈 1. Distribución por tipo de transporte
@@ -120,7 +123,7 @@ Gráfico lineal de evolución mensual del transporte.
 Top 10 de empresas con mayor cantidad de usos.
 
 📈 Conclusiones Principales
-
+-----------------------------------------
 El AMBA concentra el mayor uso del transporte público, lo que refleja la densidad poblacional y la centralidad económica de la región.
 
 Los colectivos son el medio de transporte más utilizado, superando ampliamente a trenes y subtes.
@@ -132,6 +135,7 @@ El uso del transporte varía según el mes y día, mostrando caídas en fines de
 El dataset demuestra ser una excelente base para análisis de movilidad, planificación urbana y subsidios al transporte.
 
 💾 Archivos Generados
+------------------------------------
 Archivo	Descripción
 usos_transporte.csv	Dataset original descargado del portal de datos abiertos
 datos_usos_2025_ETL.csv	Dataset limpio, normalizado y transformado
