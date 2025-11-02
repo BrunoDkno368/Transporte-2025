@@ -1,6 +1,6 @@
 # Transporte-2025
 Cantidad de transacciones SUBE (usos) por día en 2025 datos reales de la secretaria de transporte actualizada hasta el 30/10/2025
-📊 Análisis de Datos de Uso del Transporte Público en Argentina (2025)
+📊 Análisis de Datos de Uso del Transporte Público en Argentina (2025) @ArgTransporte
 🧩 Descripción del Proyecto
 
 Este proyecto tiene como objetivo realizar un proceso completo de análisis de datos (ETL + EDA) utilizando información pública del Ministerio de Transporte de la Nación Argentina, específicamente sobre los usos de la tarjeta SUBE a nivel nacional.
